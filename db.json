@@ -1,11 +1,46 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "code": 200,
+    "status": "success",
+    "objeto": [
+        {
+            "id": 8,
+            "pregunta": "pregunta de prueba",
+            "respuestas": [
+                {
+                    "id": 29,
+                    "respuesta": "respuesta pregunta"
+                },
+                {
+                    "id": 8,
+                    "respuesta": "respuesta pregunta"
+                },
+                {
+                    "id": 5,
+                    "respuesta": "respuesta pregunta"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "pregunta": "pregunta de prueba",
+            "respuestas": [
+                {
+                    "id": 40,
+                    "respuesta": "respuesta pregunta"
+                },
+                {
+                    "id": 19,
+                    "respuesta": "respuesta pregunta"
+                },
+                {
+                    "id": 7,
+                    "respuesta": "respuesta pregunta"
+                },
+                {
+                    "id": 35,
+                    "respuesta": "respuesta pregunta"
+                }
+            ]
+        }
+    ]
 }
