@@ -1,6 +1,11 @@
 {
-    "nombre" : "john alexander jimenez",
-    "direccion" : "popayan, cauca",
-    "telefono" : "898786778"
-    
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
